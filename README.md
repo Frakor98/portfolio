@@ -10,10 +10,11 @@ Cześć! Mam na imie Franek i jestem młodym człowiekiem na ostatnich latach st
 
 | Język programowania | Link do repozytorium |
 | -------------------|----------------------|
-| C#                  | [Link do repozytorium z projektem w C#] |
+| C#                  | [Link do repozytorium z projektem w C#](https://github.com/Frakor98/CS) |
 | T-SQL               | [Link do repozytorium z projektem w T-SQL](https://github.com/Frakor98/Tsql) |
 | Python              | [Link do repozytorium z projektem w Python](https://github.com/Frakor98/Python) |
 | PHP                 | [Link do repozytorium z projektem w PHP] |
+| GIT                 | [Link do repozytorium z kodem GIT] |
 
 
 ## Kontakt
