@@ -18,6 +18,7 @@ Cześć! Mam na imie Franek i jestem młodym człowiekiem na ostatnich latach st
 
 ## Kontakt
 
-[frakorzeniewski@gmail.com](frakorzeniewski@gmail.com)
+[email](mailto:frakorzeniewski@gmail.com)
+
 
 Dziękuję za odwiedzenie mojego portfolio. Mam nadzieję, że znajdziesz tutaj coś interesującego dla siebie!"
