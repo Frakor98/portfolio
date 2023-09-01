@@ -1,0 +1,14 @@
+D:\repos\Osobiste\portfolio\RPGBackpack\bin\Debug\net7.0\RPGBackpack.exe
+D:\repos\Osobiste\portfolio\RPGBackpack\bin\Debug\net7.0\RPGBackpack.deps.json
+D:\repos\Osobiste\portfolio\RPGBackpack\bin\Debug\net7.0\RPGBackpack.runtimeconfig.json
+D:\repos\Osobiste\portfolio\RPGBackpack\bin\Debug\net7.0\RPGBackpack.dll
+D:\repos\Osobiste\portfolio\RPGBackpack\bin\Debug\net7.0\RPGBackpack.pdb
+D:\repos\Osobiste\portfolio\RPGBackpack\obj\Debug\net7.0\RPGBackpack.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Osobiste\portfolio\RPGBackpack\obj\Debug\net7.0\RPGBackpack.AssemblyInfoInputs.cache
+D:\repos\Osobiste\portfolio\RPGBackpack\obj\Debug\net7.0\RPGBackpack.AssemblyInfo.cs
+D:\repos\Osobiste\portfolio\RPGBackpack\obj\Debug\net7.0\RPGBackpack.csproj.CoreCompileInputs.cache
+D:\repos\Osobiste\portfolio\RPGBackpack\obj\Debug\net7.0\RPGBackpack.dll
+D:\repos\Osobiste\portfolio\RPGBackpack\obj\Debug\net7.0\refint\RPGBackpack.dll
+D:\repos\Osobiste\portfolio\RPGBackpack\obj\Debug\net7.0\RPGBackpack.pdb
+D:\repos\Osobiste\portfolio\RPGBackpack\obj\Debug\net7.0\RPGBackpack.genruntimeconfig.cache
+D:\repos\Osobiste\portfolio\RPGBackpack\obj\Debug\net7.0\ref\RPGBackpack.dll
