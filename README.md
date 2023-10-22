@@ -8,7 +8,7 @@ Hi! My name is Franek, and I'm a young individual in the final years of my engin
 | Nazwa Projektu | Opis | Link do repozytorium |
 | -------------------|-------------------|----------------------|
 | Backpack RPG | Backpack system like in RPG game  |[Link](https://github.com/Frakor98/portfolio/tree/main/RPGBackpack) |
-| mini REST API | App that use GUS API to get data  |[Link](https://github.com/Frakor98/portfolio/tree/main/RPGBackpack) |
+| mini REST API | App read data from GUS REST api and prepare HTML email  |[Link](https://github.com/Frakor98/portfolio/tree/main/RESTApi) |
 
 
 ## Kontakt
